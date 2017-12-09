@@ -1,0 +1,23 @@
+{
+	"token": "Mzg4MTM3ODUyMTMyOTE3MjQ4.DQopEQ.FsEcAw0_kwS8YlP6BtPdK-svZVo",
+	"prefix": ";;",
+	"longStr": "...\n__Type \".long\" to be PMed the rest!__",
+	"maxSearches": 3,
+	"imageSize": 100,
+	"dbs": {
+		"en": [
+			"cards.cdb"
+		]
+	},
+	"dbMemory": 33554432,
+	"triviaTimeLimit": 30000,
+	"triviaHintTime": 10000,
+	"triviaMaxRounds": 20,
+	"imageUrl": "https://raw.githubusercontent.com/merger0/TOimg/master/",
+	"imageUrlAnime": "https://raw.githubusercontent.com/shadowfox87/YGOAniMangaPics323x323/master/",
+    "scriptFunctions": "functions.json",
+	"scriptConstants": "constants.json",
+	"scriptParams": "parameters.json",
+	"emoteMode": 1,
+	"emotesDB": "emotes.json"
+}
